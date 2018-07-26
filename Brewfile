@@ -2,7 +2,15 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew azure-cli
+brew docker
+brew gdbm
 brew mas
+brew openssl
+brew python
+brew readline
+brew sqlite
+brew xz
 brew zsh
 brew zsh-completions
 
@@ -13,6 +21,9 @@ cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew kubectl
 
 # Other Cask applications
 cask dropbox
