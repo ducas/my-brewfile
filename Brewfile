@@ -7,14 +7,16 @@ brew zsh
 brew zsh-completions
 
 tap homebrew/cask
-cask dropbox
-cask iterm2
+cask dotnet
+cask google-chrome
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask google-chrome
+cask dropbox
+cask iterm2
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
