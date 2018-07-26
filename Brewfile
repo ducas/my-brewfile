@@ -5,19 +5,23 @@ tap homebrew/core
 brew azure-cli
 brew docker
 brew gdbm
+brew icu4c
+brew kubernetes-helm
 brew mas
+brew node
 brew openssl
 brew python
 brew readline
 brew sqlite
+brew terraform
 brew xz
 brew zsh
 brew zsh-completions
 
 tap homebrew/cask
-cask dotnet
-cask google-chrome
-cask visual-studio-code
+cask docker
+cask dropbox
+cask iterm2
 
 tap rcmdnk/file
 brew brew-file
@@ -26,8 +30,9 @@ brew brew-file
 brew kubectl
 
 # Other Cask applications
-cask dropbox
-cask iterm2
+cask dotnet
+cask google-chrome
+cask visual-studio-code
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
