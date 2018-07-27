@@ -22,6 +22,7 @@ tap homebrew/cask
 cask docker
 cask dropbox
 cask iterm2
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
@@ -32,7 +33,7 @@ brew kubectl
 # Other Cask applications
 cask dotnet
 cask google-chrome
-cask visual-studio-code
+cask slack
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
