@@ -19,9 +19,10 @@ brew zsh
 brew zsh-completions
 
 tap homebrew/cask
-cask docker
-cask dropbox
-cask iterm2
+cask disk-inventory-x
+cask dotnet
+cask google-chrome
+cask purevpn
 cask visual-studio-code
 
 tap rcmdnk/file
@@ -31,8 +32,9 @@ brew brew-file
 brew kubectl
 
 # Other Cask applications
-cask dotnet
-cask google-chrome
+cask docker
+cask dropbox
+cask iterm2
 cask slack
 
 # App Store applications
