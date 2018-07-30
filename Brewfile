@@ -6,9 +6,11 @@ brew azure-cli
 brew docker
 brew gdbm
 brew icu4c
+brew jq
 brew kubernetes-helm
 brew mas
 brew node
+brew oniguruma
 brew openssl
 brew python
 brew readline
@@ -19,9 +21,10 @@ brew zsh
 brew zsh-completions
 
 tap homebrew/cask
-cask disk-inventory-x
-cask dotnet
-cask google-chrome
+cask alfred
+cask docker
+cask dropbox
+cask iterm2
 cask purevpn
 cask visual-studio-code
 
@@ -32,9 +35,10 @@ brew brew-file
 brew kubectl
 
 # Other Cask applications
-cask docker
-cask dropbox
-cask iterm2
+cask disk-inventory-x
+cask dotnet
+cask google-chrome
+cask powershell
 cask slack
 
 # App Store applications
