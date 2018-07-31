@@ -23,10 +23,11 @@ brew zsh-completions
 tap homebrew/cask
 cask alfred
 cask docker
-cask dropbox
-cask iterm2
-cask purevpn
-cask slack
+cask dotnet-sdk
+cask google-chrome
+cask powershell
+cask rider
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
@@ -37,10 +38,10 @@ brew kubectl
 # Other Cask applications
 cask disk-inventory-x
 cask dotnet
-cask google-chrome
-cask powershell
-cask rider
-cask visual-studio-code
+cask dropbox
+cask iterm2
+cask purevpn
+cask slack
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
