@@ -26,7 +26,7 @@ cask docker
 cask dropbox
 cask iterm2
 cask purevpn
-cask visual-studio-code
+cask slack
 
 tap rcmdnk/file
 brew brew-file
@@ -39,7 +39,8 @@ cask disk-inventory-x
 cask dotnet
 cask google-chrome
 cask powershell
-cask slack
+cask rider
+cask visual-studio-code
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
