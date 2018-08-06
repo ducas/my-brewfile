@@ -9,6 +9,7 @@ brew icu4c
 brew jq
 brew kubernetes-helm
 brew mas
+brew mono
 brew node
 brew oniguruma
 brew openssl
@@ -27,7 +28,7 @@ cask dotnet-sdk
 cask google-chrome
 cask powershell
 cask rider
-cask visual-studio-code
+cask sourcetree
 
 tap rcmdnk/file
 brew brew-file
@@ -42,6 +43,7 @@ cask dropbox
 cask iterm2
 cask purevpn
 cask slack
+cask visual-studio-code
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
